@@ -1,0 +1,15 @@
+# Ignore Firebase Service Account Key
+fireBase/*.json
+*.json
+
+# Ignore Python cache & virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+testing
+DataData/Video/*.mp4
+Data/Video/*.mp4
+Data/Video/*.mp4

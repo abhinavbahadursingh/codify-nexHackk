@@ -1,0 +1,9 @@
+path: C:/Users/tar30/Downloads/archive
+
+train: data/train  # relative to 'path'
+val: data/val      # relative to 'path'
+
+nc: 1  # number of classes
+
+names:
+  0: crash
